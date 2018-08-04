@@ -1,0 +1,10 @@
+.navbar{
+    color: #999999 !important
+}
+.navbar .nav-item .nav-link{
+    color:#eee !important;  
+}
+.navbar .nav-item .nav-link:hover{
+    background-color: black !important;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
